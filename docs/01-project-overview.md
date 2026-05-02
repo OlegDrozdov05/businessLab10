@@ -17,7 +17,7 @@
 - Бэкенд: Node.js, PostgreSQL, AWS
 - Имеется интеграция с фитнес-трекерами
 
-## Документации
+## Документация
 - **02-user-requirements** - пользовательские требования (UR)
 - **03-functional-requirements** - функциональные требования (FR)
 - **04-non-functional-requirements** - нефункциональные требование (NFR)
