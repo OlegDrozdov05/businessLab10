@@ -12,3 +12,5 @@
 Стабильность: стабильное  
 
 ## Связанные требования
+1. [US-08](../02-user-requirements/US-08.md)
+2. [FR-09](../03-functional-requirements/FR-09.md)
